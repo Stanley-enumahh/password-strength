@@ -1,10 +1,10 @@
-import { useContext } from "react";
-import { UserContext } from "../contexts/context";
+// import { useContext } from "react";
+// import { UserContext } from "../contexts/context";
 
 function Profile() {
-  const user = useContext(UserContext);
+  // const user = useContext(UserContext);
 
-  return <div>{user.id}</div>;
+  return <div>sss</div>;
 }
 
 export default Profile;
